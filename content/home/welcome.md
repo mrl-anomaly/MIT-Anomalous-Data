@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "MIT Anomalous Data"
 subtitle: ""
-hero_media: setup.png
+hero_media: setup2.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
