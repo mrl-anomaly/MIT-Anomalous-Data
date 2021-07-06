@@ -23,5 +23,5 @@ main:
     url: contact
     weight: 60
   - name: Data
-    url: data
+    url: publication
     weight: 70
