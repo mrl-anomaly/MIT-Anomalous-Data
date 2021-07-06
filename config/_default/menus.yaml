@@ -7,6 +7,9 @@ main:
 #  - name: News
 #    url: post
 #    weight: 20
+  - name: Home
+    url: home
+    weight: 20
   - name: New Test
     url: test
     weight: 30
@@ -19,3 +22,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Data
+    url: data
+    weight: 70
