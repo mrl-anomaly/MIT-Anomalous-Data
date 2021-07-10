@@ -27,10 +27,10 @@ publication_types: ["1"]
 publication: data65
 publication_short: ""
 
-abstract: Data from a trial run
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: Data from a trial run
+summary: ""
 
 tags: []
 
