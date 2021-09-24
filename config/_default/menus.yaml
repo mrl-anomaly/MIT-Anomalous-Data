@@ -6,22 +6,26 @@
 main:
 #  - name: News
 #    url: post
-#    weight: 20
+#    weight: 10
   - name: Home
     url: /#home
     weight: 20
-  - name: New Test
-    url: test
+  - name: Synthesizer
+    url: synthesizer
     weight: 30
+  - name: Dataset
+    url: data
+    weight: 40
+  - name: API
+    url: test
+    weight: 50
   - name: People
     url: people
-    weight: 40
-#  - name: Publications
-#    url: publication
-#    weight: 50
-  - name: Contact
-    url: contact
     weight: 60
-  - name: Data
-    url: data
+  - name: Citation
+    url: publication
     weight: 70
+#  - name: Contact
+#    url: contact
+#    weight: 80
+
