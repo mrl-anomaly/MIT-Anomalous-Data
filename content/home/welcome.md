@@ -16,7 +16,4 @@ advanced:
   css_style:
   css_class:
 ---
-
-Welcome to MIT Intelligent Anomaly Synthesizer! 
-This website is for running test data remotely. Click <A HREF="test">here </A> to enter test parameters in the queue. The status of the GPASS is available <a href="https://thingspeak.com/channels/1289599" target="_blank">here</a>.
-
+Welcome to the MRL Time-Series Synthetic Anomalous Event Data Archive. You can find two aspects of our work on this page: 1. The anomalous event synthesizer apparatus; 2. the synthetic dataset.
