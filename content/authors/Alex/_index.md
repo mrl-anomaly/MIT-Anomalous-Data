@@ -53,5 +53,3 @@ email: ""
 user_groups:
 - Researchers
 ---
-
-Alex Paul-Ajuwape is a ...
