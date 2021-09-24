@@ -16,7 +16,7 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: "3"
   background:
     image: Packet.png
     image_darken: 0
