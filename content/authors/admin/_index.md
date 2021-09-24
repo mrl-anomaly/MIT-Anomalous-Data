@@ -37,6 +37,3 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-
-Steven Yip Feung is a ....
-
