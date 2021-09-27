@@ -16,4 +16,6 @@ advanced:
   css_style:
   css_class:
 ---
+
+
 Tells that we are conducting an N-mode synthesis that last 20 Markov States, each state lasts 1s in real-time. For the 20 states, the commanded attribute are 5N, 4N, 6N, … 17N, 4N, sequentially.
