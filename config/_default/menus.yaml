@@ -25,7 +25,7 @@ main:
     url: https://mechatronics.mit.edu/
     weight: 60
   - name: Citation
-    url: citations
+    url: citation
     weight: 70
 #  - name: Contact
 #    url: contact
