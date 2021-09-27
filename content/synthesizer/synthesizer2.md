@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 30  # Order that this section will appear.
 title: ""
 subtitle: ""
-hero_media: Packet.png
+hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
