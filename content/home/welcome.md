@@ -18,6 +18,6 @@ advanced:
 ---
 <br>
 You can find two aspects of our work here:
-
+<br>
 1. Anomalous event synthesizer apparatus
 2. Synthetic dataset
