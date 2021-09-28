@@ -17,24 +17,24 @@ advanced:
   css_class:
 ---
 1. GPASS Synthesizer Apparatus:
-@inproceedings{Yeung2021_gpass,
+<p style="color:grey"> @inproceedings{Yeung2021_gpass,
 author = {Yeung, Yip Fun and Alshehri, Ali and Wampler, Lois and Mikio, Furokawa and Takayuki, Hirano and Youcef-Toumi, Kamal},
 booktitle = {2021 International Conference on Robotics and Automation},
 month = {Jun.},
 publisher = {IEEE},
 title = {{A general-purpose anomalous scenario synthesizer for rotary equipment}},
 year = {2021}
-}
-
+}</p>
+<br>
 
 2. GPAD Data Archive [Currently under review, might submit to arXiv if necessary]
-
+<br>
 
 3. GPAD Dataset Website:
-@misc{Yeung2021_gpad,
+<p style="color:grey">@misc{Yeung2021_gpad,
 title={The MRL Time-Series Synthetic Anomalous Event Data Archive},
 author={ Yeung, Yip Fun and Alshehri, Ali and Wampler, Lois and Furokawa, Mikio and Hirano, Takayuki and Kim, Nicole and Paul-Ajuwape, Alex and Tahiry, Farida and Youcef-Toumi, Kamal },
 year={2021},
 month={March},
 note = {\url{ https://mrl-anomaly.github.io/ }}
-}
+}</p>
