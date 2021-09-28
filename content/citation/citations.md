@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "About the Testbed"
+title: "Citations"
 subtitle: ""
 hero_media: 
 design:
@@ -26,7 +26,9 @@ title = {{A general-purpose anomalous scenario synthesizer for rotary equipment}
 year = {2021}
 }
 
+
 2. GPAD Data Archive [Currently under review, might submit to arXiv if necessary]
+
 
 3. GPAD Dataset Website:
 @misc{Yeung2021_gpad,
