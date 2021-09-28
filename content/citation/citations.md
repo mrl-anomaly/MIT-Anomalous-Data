@@ -29,7 +29,7 @@ year = {2021}
 
 2. GPAD Data Archive [Currently under review, might submit to arXiv if necessary]
 <br>
-
+<br>
 3. GPAD Dataset Website:
 <p style="color:grey">@misc{Yeung2021_gpad,
 title={The MRL Time-Series Synthetic Anomalous Event Data Archive},
