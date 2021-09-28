@@ -22,7 +22,7 @@ main:
     weight: 50
   - name: People
   #  url: people
-    url: https://mechatronics.mit.edu/
+    url: https://mechatronics.mit.edu/people/
     weight: 60
   - name: Citation
     url: citation
