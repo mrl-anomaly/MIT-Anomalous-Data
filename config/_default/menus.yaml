@@ -8,8 +8,8 @@ main:
 #    url: post
 #    weight: 10
   - name: Home
-  #  url: /#home
-    url: https://mrl-anomaly.netlify.app/
+    url: /#home
+  #url: https://mrl-anomaly.netlify.app/
     weight: 20
   - name: Synthesizer
     url: synthesizer
