@@ -17,7 +17,8 @@ advanced:
   css_class:
 ---
 
-Welcome to the MRL Time-Series Synthetic Anomalous Event Data Archive. 
+Welcome to the MRL Time-Series Synthetic Anomalous Event Data Archive 
+
 You can find two aspects of our work on this page:
 1. Anomalous event synthesizer apparatus
 2. Synthetic dataset
