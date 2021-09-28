@@ -6,8 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "MRL Time-Series Synthetic Anomalous Event Data Archive"
-subtitle: ""
+title: "MRL Time-Series Synthetic Anomalous Event"
+subtitle: "Data Archive"
 hero_media: Setup_CAD.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,4 +16,6 @@ advanced:
   css_style:
   css_class:
 ---
-Welcome to the MRL Time-Series Synthetic Anomalous Event Data Archive. You can find two aspects of our work on this page: 1. The anomalous event synthesizer apparatus; 2. the synthetic dataset.
+Welcome to the MRL Time-Series Synthetic Anomalous Event Data Archive. You can find two aspects of our work on this page:
+1. Anomalous event synthesizer apparatus
+2. Synthetic dataset.
