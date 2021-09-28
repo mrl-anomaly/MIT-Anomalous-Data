@@ -6,8 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "MRL Time-Series Synthetic Anomalous Event Data Archive
-"
+title: "MRL Time-Series Synthetic Anomalous Event Data Archive <br>"
 subtitle: "Data Archive"
 hero_media: Setup_CAD.png
 design:
@@ -17,8 +16,7 @@ advanced:
   css_style:
   css_class:
 ---
-
-
+<br>
 You can find two aspects of our work here:
 
 1. Anomalous event synthesizer apparatus
