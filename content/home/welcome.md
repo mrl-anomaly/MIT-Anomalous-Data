@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 <br>
-You can find two aspects of our work here:
+You can find two aspects of our work here:<br>
 <br>
-1. Anomalous event synthesizer apparatus
+1. Anomalous event synthesizer apparatus<br>
 2. Synthetic dataset
